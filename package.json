@@ -1,0 +1,16 @@
+{
+  "name": "aws-lambda-bbdd",
+  "version": "1.0.0",
+  "description": "Sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.15.0",
+    "uuid": "^6.4.0"
+  }
+}
